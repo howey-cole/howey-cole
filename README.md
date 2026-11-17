@@ -39,9 +39,23 @@ More detail is on my [website](https://cole-howey.vercel.app/).
 
 ## Tools
 
-**Primary:** SQL · R · Python
-**Platforms:** Azure Databricks · Google BigQuery · Git and GitHub
-**Reporting:** Power BI · Tableau
+**Languages**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Platforms**
+
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Reporting**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logoColor=white)
 
 ## Currently
 
