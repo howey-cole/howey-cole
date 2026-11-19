@@ -6,7 +6,7 @@ I lead the Operations analytics team at Dick's Sporting Goods. I design A/B test
 
 I'm completing an MS in Applied Data Science at the University of Chicago (expected March 2028). I hold an MBA from Carnegie Mellon's Tepper School of Business and a BS in Civil Engineering, and I served in the U.S. Air Force.
 
-[![Website](https://img.shields.io/badge/Website-cole--howey.vercel.app-0A66C2?style=flat-square)](https://cole-howey.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-colehowey.com-0A66C2?style=flat-square)](https://www.colehowey.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cole--howey-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-howey/)
 
 ---
@@ -21,7 +21,7 @@ My work at Dick's Sporting Goods uses proprietary data and code, so none of it i
 - **Metric and data governance:** new operational metrics, event instrumentation and an enterprise inventory data model on Azure Databricks.
 - **AI-enabled analytics:** business logic and validation of LLM-generated SQL for Databricks Genie Spaces.
 
-More detail is on my [website](https://cole-howey.vercel.app/).
+More detail is on my [website](https://www.colehowey.com/).
 
 ## Academic projects
 
